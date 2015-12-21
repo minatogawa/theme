@@ -354,7 +354,7 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
-    background: url('http://tinyurl.com/zjm9cwl') no-repeat;
+    background: url(/hero_image.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -386,7 +386,7 @@ h5, h6          { font-weight: bolder }
     display: block;
     width: 40px;
     height: 40px;
-    background: url('../img/p_navigation.png') no-repeat;
+    background: url(/p_navigation.png) no-repeat;
     background-position: 0 0;
 }
 
